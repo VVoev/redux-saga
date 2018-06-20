@@ -5,3 +5,4 @@ export { itemQuantitySaga } from './itemQuantitySaga';
 export { itemPriceSagaa } from './itemPriceSaga';
 export { customerServiceAvailabilitySaga } from './customerServiceAvailabilitySaga'
 export { shippingSaga } from './shippingSaga';
+export { taxRateSaga } from './taxRateSaga'
